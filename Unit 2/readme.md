@@ -4,9 +4,17 @@ Summarize this assignment and the goal of this lab
 # Hardware
 ## Hard Drives and Memory
 * What is the difference between latency and transfer rates in the performance of a hard drive?
+Latency is the amount of time it takes a hard drive to rotate the desired sector into position under the read-write head. It is calculated to be half a rotation. Disks that rotate faster deliver higher mechanical latency. There are two types of trasfer rates: the disk transfer rate and the data transfer rate. The disk transfer rate is the speed at which data is transferred to and from the disk media. The data transfer rate is the speed at which the host computer can transfer data across the IDE/EIDE or SCSI interface to the CPU.
+
 * How a solid state (SSD) hard drive is different from a traditional hard drive?
+A solid state drive (SSD) hard drive is different from a traditional hard drive because it lacks a physical read head which means data can be stored anywhere without penalty. SSDs are therefore, much faster than a traditional hard drive. In a SSD there are no moving parts. Data is split up into word length pieces and stored in memory. The information can be accessed immediately; there is no latencies issues while transferring data.
+
 * Why does increasing RAM make the computer run faster?
+Increasing RAM makes the computer run faster because more data can be loaded into the faster RAM without the need of accessing the slower hard drive. The data is then transferred directly to the CPU. 
+
 * What is the difference between 64 and 32 bit data paths?
+64 and 32 bit are used to describe processor architecture. A 32 bit processor contains a 32 bit register and can store 2^32 values while a 64 bit processor contains a 64 bit register and can store 2^64 values. The CPU register stores memory addresses which is how the processor accesses data from RAM. 32 bit programs can run on a 64 bit system but 64 bit programs will not run on a 32 bit system.
+
 
 ## ALU and Control Unit
 * Explain the interaction of the control unit and ALU in the CPU
