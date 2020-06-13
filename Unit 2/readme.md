@@ -18,13 +18,18 @@ Increasing RAM makes the computer run faster because more data can be loaded int
 
 ## ALU and Control Unit
 * Explain the interaction of the control unit and ALU in the CPU
+The arithmitic logic unit (ALU) is under the command of the control unit within the CPU. The control unit recieves an instruction from RAM and then tells the ALU what type of operation it should perform. The ALU performs all the mathematical operations.
 
 ## CPU, Input and Output
 * Identify how the example addresses each of the components: CPU, Input and Output
+The CPU interacts with Input and Output devices. Input devices would be keyboards, scanners, microphones, and digital cameras. The CPU recieves data that the input device converts to binary. The binary code tells the CPU what to display and then the CPU communicates with memory to store the results. The results are sent in binary code to the output device such as the screen, printer, or speaker.
 
 ## Logic Gates and circuits
 * Explain what is meant by a truth table and apply your knowledge to a NAND gate.
+A truth table is a table that contains the inputs and outputs for a specific type of gate. The inputs and outputs are represented using boolean logic which means in 1s and 0s, or true and false. A NAND (a negated AND gate) is a digital logic gate with two or more inputs and one output. The output is true if one or more inputs are false. If both inputs are true, then the output is false.
+
 * How does the NAND gate truth table compare to that of an AND gate?
+The behavior of a NAND gate is the opposite of the behavior of an AND gate. The truth gates are opposite in comparison. The output of an AND gate is only true if all of the inputs are true. If one or more of the inputs are false then the output is false.
 
 ## IEEE - Ethically Aligned Design
 * Explain the purpose of IEEE and the importance of ethics in device design
