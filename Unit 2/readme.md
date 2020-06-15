@@ -34,9 +34,9 @@ Summarize this assignment and the goal of this lab
 * See DecimalConversion and BinaryConversion
 
 ## Hexadecimal color representation
-* Explain the representation: #ab00ff using the site: https://www.colorhexa.com/
+* #ab00ff is a hexadecimal color that is displayed as purple. Hexadecimal colors are specified with RGB (Red, Green, Blue) values. The "#" is a symbol for hex and the first two digits (ab) are for determining the percentage of red that it will show within the color. The third and fourth digits (00) are for determining the percentage of green in the color which in this case is none. The last two digits (ff) are for determining the percentage of blue in the color. Since hexadecimal values go from 00-ff, this color has 100% blue in it.
 
-* When considering accessibility in web sites would this color be problematic? Explain what should be considered.
+* I think the color #ab00ff could be considered problematic in web sites. It's a neon color which tends to be hard on the eyes. It is too bright to read and doesn't stand out well on light or dark backrounds. 
 
 # Conclusion
 Explain what you learnt from this lab
