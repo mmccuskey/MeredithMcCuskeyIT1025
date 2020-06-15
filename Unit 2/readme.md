@@ -31,11 +31,11 @@ Summarize this assignment and the goal of this lab
 ## Numeric Conversions
 * The difference between decimal, binary and hexadecimal numbers is that they all have different base systems. We, humans, usually use the decimal system which is base 10. This means we have a 1s place, 10s place, 100s place, etc. Binary and hexadecimal are used for computers but we can also comprehend them. Binary only has two number 1 and 0. It is a base 2 system. It is used to represent informartion given in a byte (8 bits) of information. Hexadecimal is a base 16 system and is used commonly for formatting colors in HTML. After the hexadecimal system reaches 9, it uses letters to represent the amount.
 
-* Convert the decimal number 211 to binary showing your work (be sure to include your name in your screenshot or scanned file) and save to a file named DecimalConversion and upload to your lab folder.
+* See DecimalConversion and BinaryConversion
 
 ## Hexadecimal color representation
-* Convert the binary representation: 10110101 to decimal and save your work to a file named BinaryConversion and upload to the lab folder.
 * Explain the representation: #ab00ff using the site: https://www.colorhexa.com/
+
 * When considering accessibility in web sites would this color be problematic? Explain what should be considered.
 
 # Conclusion
