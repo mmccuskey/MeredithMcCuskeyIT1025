@@ -6,15 +6,16 @@ Write up as though you are explaining this week's lab to others.
 
 * Enterprise Resource Planning (ERP) software is used to bring an entire organization together with one program. Utilizing a central database, ERP software allows companies to integrate all facets of their operation and provides accessibility to a large number of employees. SAP, Oracle, and Microsoft all offer an ERP system.
 
-* Virtualization refers to the creation of a virtual machine (VM) that simulates a computer with an operating system. A single computer can perform the functions of multiple virtual computers. Cloud computing is different than virtualization. Cloud computing is when applications, services and data storage are accessible from the Internet. You don't have to install or upgrade any software with cloud computing like you do for virtualization. 
+* Virtualization refers to the creation of a virtual machine (VM) that simulates a computer with an operating system. A single computer can perform the functions of multiple virtual computers. VMs reduce the need for power, space, and cooling in a datacenter. Cloud computing is different than virtualization. Cloud computing is when applications, services and data storage are accessible from the Internet. Cloud computing shares computing resources and is You don't have to install or upgrade any software with cloud computing like you do for virtualization. Virtualization is a technology vs cloud is an enviornment. Virtualization can be used to create clouds.
 
 
 # Python
 * Follow the tasks for pythong coding. Then upload screenshot of python code (named Python) and output to this folder
 
 # Virtualization
-* What types of problems are solved with virtualization?
-* What role does hypervisor play in virtualization?
+* Virtualization helps companies cut down on IT costs while boosting efficiency and agility. It simplifies data management and allows for easier disaster recovery. IT organizations are able to run multiple applications and operating systems on just 1 server. This reduces the costs associated with setup, cooling and maitenence. 
+
+* The hypervisor is the software that sits on top of the physical hardware (or on top of an operating system) and decouples the virtual machines from the host and allocates computing resources to the VM. They take the physical resources and divide them up so that the virtual enviornments can use them.
 
 # Career Exploration
 
