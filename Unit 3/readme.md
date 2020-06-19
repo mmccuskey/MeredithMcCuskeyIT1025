@@ -10,7 +10,7 @@ Write up as though you are explaining this week's lab to others.
 
 
 # Python
-* See attached screenshots "Python" and "Python2"
+* See attached screenshots "Python.png" and "Python2.png"
 
 # Virtualization
 * Virtualization helps companies cut down on IT costs while boosting efficiency and agility. It simplifies data management and allows for easier disaster recovery. IT organizations are able to run multiple applications and operating systems on just 1 server. This reduces the costs associated with setup, cooling and maitenence. 
@@ -22,8 +22,7 @@ Write up as though you are explaining this week's lab to others.
 ## Career Exploration
 
 #### Tri-C College Central:
-* Register for a student account.
-* Use one of the search options such as "Search - Intern Central," take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,) name the file: CollegeCentral and upload to your lab folder.
+* See attached screenshot "CollegeCentral.png"
 
 #### Bureau of Labor Statistics
 * Go to: Bureau of Labor Statistics website and continue exploring careers in IT (or your area of interest.) You can search for "web developer" or "network" or "cyber" and see what jobs appear. Report your findings including job title, salary and projected growth. You can upload a screenshot if you want.
