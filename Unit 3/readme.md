@@ -25,7 +25,7 @@ Write up as though you are explaining this week's lab to others.
 * See attached screenshot "CollegeCentral.png"
 
 #### Bureau of Labor Statistics
-* Go to: Bureau of Labor Statistics website and continue exploring careers in IT (or your area of interest.) You can search for "web developer" or "network" or "cyber" and see what jobs appear. Report your findings including job title, salary and projected growth. You can upload a screenshot if you want.
+* The career I am interested in pursuing is in software development or cybersecurity. I went onto the Bureau of Labor Statistics and found both job titles: information security analysts and software developers. The average salary for an information security analyst is $99,730 per year and $105,590 for a software developer. The projected growth for information security analysts is 32% and 21% for software developers.
 
 ## Industry Certification
 * Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
