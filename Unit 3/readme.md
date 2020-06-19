@@ -10,7 +10,7 @@ Write up as though you are explaining this week's lab to others.
 
 
 # Python
-* Follow the tasks for pythong coding. Then upload screenshot of python code (named Python) and output to this folder
+* See attached screenshots "Python" and "Python2"
 
 # Virtualization
 * Virtualization helps companies cut down on IT costs while boosting efficiency and agility. It simplifies data management and allows for easier disaster recovery. IT organizations are able to run multiple applications and operating systems on just 1 server. This reduces the costs associated with setup, cooling and maitenence. 
