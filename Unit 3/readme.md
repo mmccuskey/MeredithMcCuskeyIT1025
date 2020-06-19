@@ -28,7 +28,7 @@ Write up as though you are explaining this week's lab to others.
 * The career I am interested in pursuing is in software development or cybersecurity. I went onto the Bureau of Labor Statistics and found both job titles: information security analysts and software developers. The average salary for an information security analyst is $99,730 per year and $105,590 for a software developer. The projected growth for information security analysts is 32% and 21% for software developers.
 
 ## Industry Certification
-* Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
+* The certification I chose to explore is the CompTIA CySA+ which is a cyber security analyst certification. This certification helps boost a resume and shows employers that you are able to do what you say you can. The topics covered within the certification include threat and vulnerability management, software and systems security, security operations and monitoring, and incident response. It is a multiple choice/performance based exam that is scored from 100-900. 750 is considered a passing score. The recommended having at least a couple of years of experience in the IT field before taking this exam.
 
 ## College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
