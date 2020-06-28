@@ -14,10 +14,10 @@ Update this section for this lab explaining the purpose of the lab
 Files that end in jpg, gif, and png are all used to identify and compress images. GIF stands for Graphics Interchange Format and is mainly used for animated images which neither of the file formats allow. JPEG is an image format that uses lossy compression to decrease the file size. PNG uses lossless compression and supports transparency options. Both gif and png use a bitmap image format.
 
 # Operating Systems
-See attached files
+See attached files - CMDOutput.png, DirectoryStructureCommandPrompt.png, and DirectoryStructureFileExplorer.png
 
 ## Logo
-* See attached image
+* See attached image - SVGGraphic.svg
 * My image design was a heart shaped pizza with pepperoni on it with a banner in front of it that says "Mere's Pizza". There were 33 layers because of how many pepperoni pieces are on the pizza.
 * The file size of this image is 94KB. The application it opens with is by default the Atom editor. I think the more appropriate option would be to open with google chrome because you can see the image instead of the code behind it.
 
