@@ -11,9 +11,10 @@ Update this section for this lab explaining the purpose of the lab
 
 ## File Formats
 * Explain the similarities and differences between jpg, gif and png files.
+Files that end in jpg, gif, and png are all used to identify and compress images. GIF stands for Graphics Interchange Format and is mainly used for animated images which neither of the file formats allow. JPEG is an image format that uses lossy compression to decrease the file size. PNG uses lossless compression and supports transparency options. Both gif and png use a bitmap image format.
 
 # Operating Systems
-Upload screenshots for Operating System tasks to github
+See attached files
 
 ## Logo
 * Upload your logo image that you created from the Graphics Tasks
