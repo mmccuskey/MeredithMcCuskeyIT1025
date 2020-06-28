@@ -1,5 +1,5 @@
 # Executive Summary
-Update this section for this lab explaining the purpose of the lab
+The purpose of Unit 4 Lab 4 was to introduce us the basics of an operating system. It goes over how to use the terminal to create directories and how to access them from there. It goes over image file formats including jpg, gif, and png. Compression methods such as lossless and lossy as well as types of graphics are also touched on. It requires you to create a vector image and upload it along with some terminal activities.
 
 # Graphics
 ## Raster vs. Vector Graphics
@@ -22,4 +22,4 @@ See attached files - CMDOutput.png, DirectoryStructureCommandPrompt.png, and Dir
 * The file size of this image is 94KB. The application it opens with is by default the Atom editor. I think the more appropriate option would be to open with google chrome because you can see the image instead of the code behind it.
 
 # Conclusion
-Summarize what you learned here
+Unit 4 Lab 4 taught me about how to navigate the terminal which I was not familiar with before. I had trouble trying to find the commands for mac because they are a bit different than a windows operating system. After some quick Google searches I found the equivalent commands for the terminal in mac. I also did not know about the differences between file formats used with images and wasn't aware of the compression methods associated with them. I had fun making the pizza logo and am excited to learn more.
