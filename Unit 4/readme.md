@@ -17,9 +17,9 @@ Files that end in jpg, gif, and png are all used to identify and compress images
 See attached files
 
 ## Logo
-* Upload your logo image that you created from the Graphics Tasks
-* Explain your image design including how many "layers" were required
-* Right-click on your svg image file, select "properties" and report the file size and what application it "opens with." What application might be more appropriate and why (click the "change" button for options)
+* See attached image
+* My image design was a heart shaped pizza with pepperoni on it with a banner in front of it that says "Mere's Pizza". There were 33 layers because of how many pepperoni pieces are on the pizza.
+* The file size of this image is 94KB. The application it opens with is by default the Atom editor. I think the more appropriate option would be to open with google chrome because you can see the image instead of the code behind it.
 
 # Conclusion
 Summarize what you learned here
