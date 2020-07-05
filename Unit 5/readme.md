@@ -22,8 +22,8 @@ Match the following words with their definitions
 * The benefit of a router over a hub and switch is that a router can read IP addresses. This allows data to be transferred from one network to another based on their IP address. A hub or switch can't read IP addresses and is only used for sending data within the same network. 
 
 ## Network Topology
-* Explain: Single point of failure and the topologies that experience this issue.
-* Compare the Infrastructure Topology and Wireless Mesh. Which do you think is better and why?
+* Single point of failure refers to a part of a system that will affect the entire system from working if it fails or breaks down. Star, bus, and ring are some of the topologies that experience this issue.
+* Infrastructure topology uses a combination of wired and wireless devices. It is similar to a star topology where there are computers physically connected to a switch but you also have a wireless access point connected by a cable to the switch. Wireless devices such as laptops and smartphones can connect wirelessly to the network. Infrastructure topologies can have multiple wireless entry points. Wireless mesh topoloies are similar to mesh topologies where devices are interconnected with each other except wirelessly. In this type of a setup, each type of wireless access point will talk to other wireless access points so that wireless devices could connect even if they are physically far away from the modem. I think a wireless mesh topology is better because there is less cables, therefore it is cheaper and easier to set up. It will be able to continue working even if one of the wireless access points is broken because it will reroute the data through the other access points.
 
 # Cybersecurity and Encryption
 * Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job
