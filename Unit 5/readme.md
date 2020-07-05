@@ -18,8 +18,8 @@ Match the following words with their definitions
 * Protocol - Set of rules to allow devices to communicate
 
 ## Network Hardware
-* Explain the benefit of a switch over a hub.
-* Explain the benefit of a router over hubs and switches.
+* The benefit of a switch over a hub is that it is able to store mac addresses and send packets to specific addresses instead of to every device connected like a hub would do. A switch will send data only to the intended port instead of to all of them. A hub can only detect that a device is connected to it, while a switch can detect specific devices that are connected to it because of its ability to keep a record of the mac addresses. This reduces bandwidth and increases privacy and security. 
+* The benefit of a router over a hub and switch is that a router can read IP addresses. This allows data to be transferred from one network to another based on their IP address. A hub or switch can't read IP addresses and is only used for sending data within the same network. 
 
 ## Network Topology
 * Explain: Single point of failure and the topologies that experience this issue.
