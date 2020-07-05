@@ -2,14 +2,9 @@
 Explain the goal for this lab
 
 # LucidChart
-Create a new blank diagram (ignore message boxes to upgrade) and create a flowchart for a computer program that asks for a number and then
+* See DecisionFlowchart.jpeg
 
-* prints "Big" if the number is greater than 10
-* prints "Small" if the number is less than 10. Use the following resource (or one of your choice) as a guide: https://www.tutorialspoint.com/programming_methodologies/programming_methodologies_flowchart_elements.htm Add a textbox to the chart with your name
-
-Download your chart as a jpg file and name it: DecisionFlowchart and upload the file to your GitHub lab folder
-
-Share your experience using Lucidchart in a paragraph (3-4 lines)
+My experience using Lucidchart was extremely simple. The tutorial was easy to understand and showed me how to create a basic chart as well as how to export my flowchart. I found Lucidchart to be user friendly and easy to navigate. It only took me a couple minutes to create a flowchart for this lab.
 
 # Intro to Networking
 ## Data Transmission
