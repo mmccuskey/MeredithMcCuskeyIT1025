@@ -37,11 +37,12 @@ Match the following words with their definitions
 * We need public key cryptography in order to securely send data to other people without worrying about a third party intercepting private information. Public key cryptography is used in many daily activities we participate in such as banking and online shopping. Public key cryptography ensures the confidentiality of our data.
 
 ## Cryptography
-* Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message. Then explain the encryption here:
+* I typed "hello" in the Caesar Cipher Exploration box and it's encoded message is "gdkkn". G is the letter before h, d is the letter before e, k is the letter before l, and so on. Every letter is shifter left one.
 
-* Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result. b) Would it be different for different languages?
+* The result of my message in the Frequency Fingerprint Exploration box is that I mostly typed vowels like a, e, i, and o. I also typed h, t, and n a decent amount. I think it would be different for every language because some use different letters than us and would have a different frequency of letters.
 
 * What is a "Polyalphabetic cipher?" Type a message in the "Polyalphabetic Exploration" box as well as a shift word. Explain the result.
+
 
 ## Brute Force
 * What is Brute-Force and how does it relate to Kerckhoffs's principle?
