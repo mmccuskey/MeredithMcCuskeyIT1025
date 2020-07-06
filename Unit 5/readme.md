@@ -41,11 +41,11 @@ Match the following words with their definitions
 
 * The result of my message in the Frequency Fingerprint Exploration box is that I mostly typed vowels like a, e, i, and o. I also typed h, t, and n a decent amount. I think it would be different for every language because some use different letters than us and would have a different frequency of letters.
 
-* What is a "Polyalphabetic cipher?" Type a message in the "Polyalphabetic Exploration" box as well as a shift word. Explain the result.
+* A polyalphabetic cipher is a way to encode data by using a key word that tells you how many shifts to do with the letters. I wrote the message "hello friend" and the shift word was horse. The end result was "ptdet ngaxsl" which makes sense. The first letter to change is h and since the first letter of the word horse is h, it is shifted 8 letters since h is the eighth letter of the alphabet.
 
 
 ## Brute Force
-* What is Brute-Force and how does it relate to Kerckhoffs's principle?
+* Brute-force is a way to try every possible decryption key for a cipher. Kerckhoff's principle states that a cipher should still be secure even if everyone knows how the cipher works and someone else has the ciphertext. Brute-force is related to Kerckhoff's principle because it shows flaws in different types of ciphers if they don't meet the standards for the principle.
 
 # Conclusion
 Summarize how this lab was useful to you and what you learnt that really interested you!
