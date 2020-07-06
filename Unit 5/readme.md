@@ -1,5 +1,5 @@
 # Executive Summary
-Explain the goal for this lab
+The purpose of Lab 5 is to introduce networking concepts, cybersecurity, encryption, and cryptography basics. It utilizes an online website to develop a flowchart. It covers networking basics including terms and different types of hardware and topologies. The security triad, authentication practices, and public key cryptography is described. Different types of ciphers are demonstrated and brute-force is mentioned.
 
 # LucidChart
 * See DecisionFlowchart.jpeg
@@ -48,4 +48,4 @@ Match the following words with their definitions
 * Brute-force is a way to try every possible decryption key for a cipher. Kerckhoff's principle states that a cipher should still be secure even if everyone knows how the cipher works and someone else has the ciphertext. Brute-force is related to Kerckhoff's principle because it shows flaws in different types of ciphers if they don't meet the standards for the principle.
 
 # Conclusion
-Summarize how this lab was useful to you and what you learnt that really interested you!
+Lab 5 was useful and informative. I knew a bit about cryptography but I didn't know about the different types of ciphers. I thought it was cool to be able to test different ciphers with my own message and see how it works. I also wasn't aware of the technical terms in regards to networking data transmission. I also learned the difference between routers, hubs, and switches. I found it interesting to learn about the similarities and differences between the different types of topologies.
