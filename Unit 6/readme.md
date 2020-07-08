@@ -7,10 +7,9 @@ Include your executive summary here...
 * What is an IP address and what is the difference between IPv4 and IPv6?
 An IP address is a unique number assigned to a computer or device that is connected to the internet. IPv4 was the original internet protocol. It is a pool of unallocated addresses. IPv6 is the new internet protocol which has a bigger address space since all of the IPv4 unallocated addresses have been allocated to Internet Service Providers and users. IPv4 addresses are written as a string of four numbers between 0 and 255 seperated by dots. IPv6 addresses are much longer and are usually written using hexadecimals. Colons seperate segments of an IPv6 address instead of dots. 
 
+* See ipconfig.png
 
-* Find the IP address of your computer by typing ipconfig at the command prompt (refer back to the "Operating Systems" module for details.) Take a screenshot of the command without including the IP address to show your success, name the file ipconfig and upload to the lab folder on GitHub.
-
-* What is ICANN and how do they contribute to the global Internet?
+* The Internet Corporation for Assigned Names and Numbers (ICANN) is coordinates the unique identifying numbers of computers and devices across the world. It is a non-profit dedicated to keeping the internet secure, connected, and operable. It develops policies on the internet protocols such as IPv4 and IPv6. 
 
 ## TCP/IP
 #### Review the first article and answer these questions:
