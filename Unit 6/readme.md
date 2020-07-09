@@ -12,9 +12,9 @@ An IP address is a unique number assigned to a computer or device that is connec
 * The Internet Corporation for Assigned Names and Numbers (ICANN) is coordinates the unique identifying numbers of computers and devices across the world. It is a non-profit dedicated to keeping the internet secure, connected, and operable. It develops policies on the internet protocols such as IPv4 and IPv6. 
 
 ## TCP/IP
-#### Review the first article and answer these questions:
-* What is the responsibility of TCP/IP?
-* Explain how the client-server model applies to TCP/IP.
+* TCP/IP stands for Transmission Control Protocol / Internet Protocol. TCP/IP is responsible for defining the details of how data is sent and recieved through network adapters, hubs, switches, routers and other network communications hardware. IP addresses communicate over ports. A port number is a way to identify specific connections between one computer or device and another. TCP/IP protocol creates a virtual IP port that the network hardware and software use to route data in and out of each virtual port.
+
+* TCP/IP utilizes the client-server model. The client would be a computer or device that connects to the server. The client needs to know the IP address of the server as well as the port number. The server then has to accept or reject the connection. Once a connection is made data can be sent back and forth between these two devices through a port. The connection between the client and the server remains open until either the client or server terminates the connection. 
 
 #### Review the second article and answer these questions:
 Review the section of the article aligning the post office with protocol stacks.
