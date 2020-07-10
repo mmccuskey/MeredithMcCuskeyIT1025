@@ -16,10 +16,9 @@ An IP address is a unique number assigned to a computer or device that is connec
 
 * TCP/IP utilizes the client-server model. The client would be a computer or device that connects to the server. The client needs to know the IP address of the server as well as the port number. The server then has to accept or reject the connection. Once a connection is made data can be sent back and forth between these two devices through a port. The connection between the client and the server remains open until either the client or server terminates the connection. 
 
-#### Review the second article and answer these questions:
-Review the section of the article aligning the post office with protocol stacks.
-* Why are layers important to changing technology?
-* What types of applications run on the "application" layer?
+* Layers are important to incorporate into technology because it allows changes to be made to a system relatively easily. Each layer performs a specific function. If someone wanted to go in and change an aspect of that function, being able to identify a single layer and just focus on changing that one or replacing it without affecting the other layers is extremely important.
+
+* Some of the types of applications that run on the application layer of TCP/IP is HTTP (hypertext transfer protocol) as well as some email protocols like SMTP and POP3.
 
 # Internet Security
 #### Watch the video and answer these questions:
