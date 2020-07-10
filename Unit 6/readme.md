@@ -21,9 +21,9 @@ An IP address is a unique number assigned to a computer or device that is connec
 * Some of the types of applications that run on the application layer of TCP/IP is HTTP (hypertext transfer protocol) as well as some email protocols like SMTP and POP3.
 
 # Internet Security
-#### Watch the video and answer these questions:
-* What is HTTP and how does it support the client-server model?
-* Explain the protocols that secure HTTP uses to protect data.
+* Hypertext Transfer Protocol (HTTP) is the protocol that is used to view web pages. HTTP supports the client-server because it is the protocol used by a computer (client) to access a web server. 
+
+* HTTPS was created to protect data by encrypting the data being retrieved by HTTP. This secures data by scrabmling it rendering it unreadable to a hacker who might be trying to steal personal information. HTTPS uses two protocols to secure data. One of them is Secure Sockets Layer (SSL) which is a protocol that uses public key encryption. The client will ask the web server to identify itself and the server will send back an SSL certificate which authenticates the identity of a website. The client decides whether to trust the SSL certificate and if it does, the server and client can start sending encrypted data between each other. The other protocol used is Transport Layer Security (TLS) which is the latest cryptographic standard protocol. It is based on the specifications of SSL and authenticates the server before encrypting data. Many websites use HTTPS now, largely due to Google flagging sites as unsecure if they are not SSL protected and penalizes them in their search results.
 
 #### Review the following article: Securing Your Web Browser
 * Why should you secure your browser?
