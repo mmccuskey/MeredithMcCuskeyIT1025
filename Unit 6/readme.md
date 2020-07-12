@@ -25,9 +25,9 @@ An IP address is a unique number assigned to a computer or device that is connec
 
 * HTTPS was created to protect data by encrypting the data being retrieved by HTTP. This secures data by scrabmling it rendering it unreadable to a hacker who might be trying to steal personal information. HTTPS uses two protocols to secure data. One of them is Secure Sockets Layer (SSL) which is a protocol that uses public key encryption. The client will ask the web server to identify itself and the server will send back an SSL certificate which authenticates the identity of a website. The client decides whether to trust the SSL certificate and if it does, the server and client can start sending encrypted data between each other. The other protocol used is Transport Layer Security (TLS) which is the latest cryptographic standard protocol. It is based on the specifications of SSL and authenticates the server before encrypting data. Many websites use HTTPS now, largely due to Google flagging sites as unsecure if they are not SSL protected and penalizes them in their search results.
 
-#### Review the following article: Securing Your Web Browser
-* Why should you secure your browser?
-* Explain one of the risks described in the article.
+* You should secure your web browser because an unsecure browser could lead to a variety of problems from spyware being installed to intruders taking control of your computer. Software attacks that take advantage of vulnerable web browsers have been increasing. In order to protect your computer and personal information, securing your web browser is a smart idea.
+
+* One of the risks described in the article is the vulnerabilities associated with using ActiveX which is a technology used by Microsoft Internet Explorer on Microsoft Windows systems. ActiveX allows applications to be utilized by the web browser. While this increases functionality, it also introduces vulnerabilities that could be exploited through Internet Explorer. Using ActiveX in a web browser increases the attack surface of a system.
 
 # Internet Programming
 * Upload screenshots of your html, css and result
