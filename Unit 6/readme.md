@@ -32,9 +32,12 @@ An IP address is a unique number assigned to a computer or device that is connec
 # Internet Programming
 * Upload screenshots of your html, css and result
 Answer these questions
-* Who was Tim Berners-Lee and why did he create the W3C?
-* Pick a "standard" of your choice and explain why it is important.
-* Explain how XML differs from HTML.
+
+* Tim Berners-Lee is the inventor of the World Wide Web. He wrote the first World Wide Web server and the first client program. He also wrote the first version of HyperText Markup Language (HTML). He created W3C to lead the world wide web to its full potential by developing protocols and guidelines that ensure the long-term growth of the web. 
+
+* The standard that I chose is HTML & CSS. This standard is important because these two languages are used to develop web pages. By having an agreed upon standard, web developers are able to write, edit, view, and understand web pages. Everyone uses the same standards and it consolidates development.
+
+* XML is a markup language similar to HTML. Although similar in many ways, XML and HTML were designed with different goals. XML was designed to carry data while HTML was designed to display data. It is also important to note that XML tags are not predefined like HTML tags are. 
 
 # URLs and File Paths
 * Match the following terms / definitions under the heading and explain how they are related by providing an example of all of the pieces of a URL: 
