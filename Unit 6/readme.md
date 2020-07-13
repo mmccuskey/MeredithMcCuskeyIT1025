@@ -39,11 +39,18 @@ An IP address is a unique number assigned to a computer or device that is connec
 * XML is a markup language similar to HTML. Although similar in many ways, XML and HTML were designed with different goals. XML was designed to carry data while HTML was designed to display data. It is also important to note that XML tags are not predefined like HTML tags are. 
 
 # URLs and File Paths
-* Match the following terms / definitions under the heading and explain how they are related by providing an example of all of the pieces of a URL: 
-Terms: scheme, domain, top level domain, default page, parameters, anchor 
-Definitions/examples: .edu, no file path provided, result of search, https, www.amazon.com, specific location on a page.
-* What is your understanding of difference between Absolute and Relative File Paths. What would you use in your website? Why?
-* Explain the purpose and use of file compression.
+#### Match the following terms / definitions:
+* scheme - https
+* domain - www.amazon.com
+* top level domain - .edu
+* default page - no file path provided
+* parameters - result of search 
+* anchor - specific location on a page
+
+#### Answer these questions:
+* Absolute file paths always include the domain name of a website including https://www. Relative file paths only point to a file or file path. A relative link will take the user to that location on the current site. Absolute links are used to navigate to a different website while relative links are used to navigate to another page or file on the current website. I would use relative file paths in my website because it makes it easier to do things like change my domain name without having to go through all my HTML pages and change the names on all the links. They also keep the website structure neat and organized.
+
+* File compression is used to reduce the size of a file so that it takes up less storage. Compressed files can be transferred to other computers faster than the original uncompressed file. 
 
 # Conclusion
 Include your conclusion here...
