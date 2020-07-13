@@ -30,8 +30,7 @@ An IP address is a unique number assigned to a computer or device that is connec
 * One of the risks described in the article is the vulnerabilities associated with using ActiveX which is a technology used by Microsoft Internet Explorer on Microsoft Windows systems. ActiveX allows applications to be utilized by the web browser. While this increases functionality, it also introduces vulnerabilities that could be exploited through Internet Explorer. Using ActiveX in a web browser increases the attack surface of a system.
 
 # Internet Programming
-* Upload screenshots of your html, css and result
-Answer these questions
+* See Unit6html.png, Unit6css.png, and Unit6webpage.png
 
 * Tim Berners-Lee is the inventor of the World Wide Web. He wrote the first World Wide Web server and the first client program. He also wrote the first version of HyperText Markup Language (HTML). He created W3C to lead the world wide web to its full potential by developing protocols and guidelines that ensure the long-term growth of the web. 
 
