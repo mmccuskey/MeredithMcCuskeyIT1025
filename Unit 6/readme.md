@@ -1,5 +1,5 @@
 # Executive Summary
-Include your executive summary here...
+The purpose of Unit 6 is to introduce concepts of internet architecture, security and programming. Internet protocol covers what an IP address is and explains how TCP/IP works. It talks about the risks associated with using the internet and what security protocols are in place to protect information such as HTTPS. Internet programming languages such as HTML and CSS are introduced and we learn how to program a basic webpage through an online editor. URLs and file paths are explained in details as well as the uses of file compression.
 
 # Internet Architecture
 
@@ -53,4 +53,4 @@ An IP address is a unique number assigned to a computer or device that is connec
 * File compression is used to reduce the size of a file so that it takes up less storage. Compressed files can be transferred to other computers faster than the original uncompressed file. 
 
 # Conclusion
-Include your conclusion here...
+Unit 6 covered a good portion of material on internet protocols and security as well as introduced front end programming languages like HTML and CSS. I have had some experience with HTML and CSS before so it was good to review some of the basic concepts. I found it interesting learning about what an IP address is and how TCP/IP works along with the concept of HTTPS. I also was unaware of the different parts of a URL. I also thought it was interesting to learn how absolute and relative file paths work and how to link them in an HTML document. Lab 6 has given me a better undrstanding of how the internet works and what goes on behind the scenes of the graphical interface that it displays. 
