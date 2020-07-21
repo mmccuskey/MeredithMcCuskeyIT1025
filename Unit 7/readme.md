@@ -31,7 +31,7 @@ d) It is important to properly define the data type of a field because a data ty
 
 * The two related tables I picked from the diagram is Employees and Orders. The primary key is EmployeeID and the foreign key is OrderID.
 
-* Using W3Schools, try out a a) select statement a) where clause and upload screenshots of the results.
+* See SelectSQL.png and WhereSQL.png
 
 * SQL injections are a security threat because hackers can input harmful code via the web page. This could result in personal information being compromised. To reduce this issue and protect a web site from SQL injections, you can use SQL parameters.
 
