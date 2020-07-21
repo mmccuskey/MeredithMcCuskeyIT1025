@@ -38,7 +38,11 @@ d) It is important to properly define the data type of a field because a data ty
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
 * Explain the purpose of a "code of ethics" and why the ACM created a code for the computing discipline.
+The purpose of a code of ethics is to outline acceptable behaviors for a professional and social group. It generally defines actions that are appropriate and inappropriate. The ACM created a code oth ethics for the computing discipline to bring together a group of people committed to ethical professional conduct in relation to computing.
+
 * Explain the difference between a code of ethics and AUP (acceptable use policies.)
+The difference between a code of ethics and AUPs are 
+
 * Pick a site of your choice and read the AUP. Select a policy of interest and report your findings (include a link to the site in your report.)
 
 ## Intellectual Property
