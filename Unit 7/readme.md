@@ -22,9 +22,9 @@ c) The foreign key in the orders table would be the customer ID that connects to
 d) It is important to properly define the data type of a field because a data type tells the database what functions to perform with the data. It is also important to define the data type so the proper amount of storage can be allocated for the data.
 
 ## Big Data
-* Briefly describe the four "Vs" of big data
+* The four "V"s of big data are volume, variety, velocity and veracity. Volume refers to the scale of data. Variety refers to different forms of data. Velocity is the analysis of streaming data. Veracity is the uncertainty of data.
 
-* What types of technology have driven the increased need for big data?
+* Some types of technology that have driven the increased need for big data are predictive analytics, NoSQL databases, data virtualization, and distributed storage.
 
 # Structured Query Language (SQL)
 * Explain RDBMS and how it relates to SQL and the purpose of SQL
