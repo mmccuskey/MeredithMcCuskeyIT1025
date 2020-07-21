@@ -9,19 +9,21 @@ Talk about what the goal of this lab is !
 
 # Data, Information and Knowledge
 ## Relational Data
-* What is the difference between data, information and knowledge?
-Data is the raw bits and pieces of information with no context. Data can be quantitative or qualitative. Information is context for the data
+* Data is the raw bits and pieces of information with no context. Data can be quantitative or qualitative. Information is context for the data. Knowledge is when the data is put into context and use the information to make decisions.
 
-* If you were creating a database for a small company and two tables you identify are customers and orders explain the following: (be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) a) What would be the primary key in the customers and orders table?
+* If you were creating a database for a small company and two tables you identify are customers and orders explain the following: (be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) 
 
-b) How would the customers and orders table be related?
+a) The primary key would be the order number or ID that is connected to the customer.
 
-c) What would be the foreign key in the orders table?
+b) Customers would be related to orders because the customer is the one placing the order.
 
-d) The orders table would likely have a date field. Explain why it is important to properly define the data type of a field.
+c) The foreign key in the orders table would be the customer ID that connects to the order they placed.
+
+d) It is important to properly define the data type of a field because a data type tells the database what functions to perform with the data. It is also important to define the data type so the proper amount of storage can be allocated for the data.
 
 ## Big Data
 * Briefly describe the four "Vs" of big data
+
 * What types of technology have driven the increased need for big data?
 
 # Structured Query Language (SQL)
