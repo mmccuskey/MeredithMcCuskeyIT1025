@@ -27,10 +27,13 @@ d) It is important to properly define the data type of a field because a data ty
 * Some types of technology that have driven the increased need for big data are predictive analytics, NoSQL databases, data virtualization, and distributed storage.
 
 # Structured Query Language (SQL)
-* Explain RDBMS and how it relates to SQL and the purpose of SQL
-* Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them a) which is the primary key? b) which is the foreign key?
+* Relational Database Management Systems (RDBMS) is the basis for SQL. The data stored in RDBMS is stored in database objects called tables. 
+
+* The two related tables I picked from the diagram is Employees and Orders. The primary key is EmployeeID and the foreign key is OrderID.
+
 * Using W3Schools, try out a a) select statement a) where clause and upload screenshots of the results.
-* Explain how SQL injections are a security threat and what can be done to reduce the issue.
+
+* SQL injections are a security threat because hackers can input harmful code via the web page. This could result in personal information being compromised. To reduce this issue and protect a web site from SQL injections, you can use SQL parameters.
 
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
