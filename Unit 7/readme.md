@@ -47,13 +47,12 @@ The site I chose was Facebook and the policy of interest is their Workplace Acce
 ## Intellectual Property
 * The purpose of the World Intellectual Property Organization (WIPO) is to lead development of a balanced and effective international intellectual property system that enables innovation and creativity for the benefit of all.
 
-* Using links in the chapter explain how a copyright is obtained and the benefit of registering for a copyright with the US Copyright Office. Explain why it might be important to copyright the svg image you created.
-A copyright is obtained 
+* A copyright is obtained simply by creating original work. The benefit of registering for a copyright with the US Copyright Office is you can legally take action against someone who has used your work without your permission. It is advisable to register with the US Copyright Office if you plan on using the image or work commercially. It might be important to copyright the svg image I created because then I am making sure that image is mine legally and only I can use it.
 
-* If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property.
+* The role of a trademark in defining the intellectual property of an image I created is that it identifies a source of goods and services. The tradesmark shows that the image or logo has been either marked with a common-law tradesmark or registered tradesmark. This tradesmark protects the image and brand.
 
 ## Information Collection
-* Explain how COPPA, FERPA and HIPPA restrict the collection of information on the Internet.
+* COPPA, FERPA and HIPPA are a collection of acts that passed in regard to restriction of collection of information on the internet. These legislative acts protect information by complying with laws about data obtained from minors, accesss to school records for parents, and healthcare confidentiality. They have specific parameters explaining what data websites and companies can and cannot collect based on the type of information.
 
 # Conclusion
 Include what you have learnt from this lab
