@@ -37,7 +37,7 @@ d) It is important to properly define the data type of a field because a data ty
 
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
-* The purpose of a code of ethics is to outline acceptable behaviors for a professional and social group. It generally defines actions that are appropriate and inappropriate. The ACM created a code oth ethics for the computing discipline to bring together a group of people committed to ethical professional conduct in relation to computing.
+* The purpose of a code of ethics is to outline acceptable behaviors for a professional and social group. It generally defines actions that are appropriate and inappropriate. The ACM created a code of ethics for the computing discipline to bring together a group of people committed to ethical professional conduct in relation to computing.
 
 * The difference between a code of ethics and AUPs are that a code of ethics focuses on morals and behaviors people abide by. An Acceptable Use Policy (AUP) is an agreement that must be accepted before granting access to services.
 
@@ -45,8 +45,11 @@ d) It is important to properly define the data type of a field because a data ty
 The site I chose was Facebook and the policy of interest is their Workplace Acceptable Use Policy. In their AUP, you must use your real name and not misrepresent yourself in any way. You cannot be using their platform to exploit or harm children. You cannot create any content that glorfies violence, drug abuse, and/or eating disorders. You also must be older than 13 to use the service. They have the right to remove your content if they believe it violates any part of their AUP.
 
 ## Intellectual Property
-* From the chapter follow the link to the WIPO. What is the purpose and importance of the WIPO?
+* The purpose of the World Intellectual Property Organization (WIPO) is to lead development of a balanced and effective international intellectual property system that enables innovation and creativity for the benefit of all.
+
 * Using links in the chapter explain how a copyright is obtained and the benefit of registering for a copyright with the US Copyright Office. Explain why it might be important to copyright the svg image you created.
+A copyright is obtained 
+
 * If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property.
 
 ## Information Collection
