@@ -1,11 +1,8 @@
 # Executive Summary
-Talk about what the goal of this lab is !
+The purpose of Lab 7 was to introduce object oriented programming, data, SQL, intellectual property laws, and internet confidentiality. How to create a class and its features and actions is covered as well as the four "V"s of big data. A brief overview of SQL and how to use some basic commands is gone over. Ethics for computing and trademarks/copyrights are covered and we are introduced to some legislation acts that deal with internet data confidntiality and access.
 
 # Object Oriented Programming
-* Create a class (using paper and pencil or using the Microsoft whiteboard app) for the following: a) Phone b) House c) Employee
-* Identify the features (In the video for the Car class, we identified the properties as Year, Make Model etc)
-* Identify the actions (In the video a) for the Car class, we identified the methods as Drive, Park, Start etc)
-* Then upload a screenshot of your diagram to github for each of the above classes.
+* See unit7phone.HEIC, unit7house.HEIC, and unit7employee.HEIC
 
 # Data, Information and Knowledge
 ## Relational Data
@@ -55,4 +52,4 @@ The site I chose was Facebook and the policy of interest is their Workplace Acce
 * COPPA, FERPA and HIPPA are a collection of acts that passed in regard to restriction of collection of information on the internet. These legislative acts protect information by complying with laws about data obtained from minors, accesss to school records for parents, and healthcare confidentiality. They have specific parameters explaining what data websites and companies can and cannot collect based on the type of information.
 
 # Conclusion
-Include what you have learnt from this lab
+Lab 7 was informational as well as interesting. I have had a bit of an introduction to object oriented programming because I am learning C# in my other class so it was good to go over that concept. I was unaware of the details associated with dig data and completely unfamiliar with SQL. I found it interesting reading about the policies behind the ethics and confidentiality of the internet. I also found it interesting to learn about how trademarks and copyrights work.
